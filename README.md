@@ -3,7 +3,7 @@
 > 2025년도 1학기 **국민대학교 캡스톤디자인** KOOKNET 팀  
 > AWS DeepRacer를 활용한 강화학습 기반 자율주행 경진대회 프로젝트
 
-[📄 대회 설명 PDF 전체 보기](docs/competition_overview.pdf)
+[📄 대회 설명 PDF 전체 보기](./competition_overview.pdf)
 
 ![대회 포스터](https://github.com/user-attachments/assets/51c46838-48c7-4dd6-9db1-c1483941b192)
 
